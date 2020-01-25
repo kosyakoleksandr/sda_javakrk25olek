@@ -3,6 +3,11 @@ package pl.sda.javakrk25.day5;
 import java.util.Random;
 
 public class Zad_14_histogram {
+    /**
+     * stworymy program ktory
+     * stworz program krory
+     * @param args
+     */
 
     /**Stworz progrom ktory*/
     /**
@@ -21,5 +26,6 @@ public class Zad_14_histogram {
         for (int i = 0; i < histogram.length; i++) {
             System.out.println(String.format("%d -> %d", i, histogram[i]));
         }
+        // some more info
     }
 }
